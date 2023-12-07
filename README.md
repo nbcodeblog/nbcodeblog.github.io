@@ -1,8 +1,8 @@
-Computer Languages and Technologies
+# Computer Languages and Technologies
 💠 Version Control Systems (VCS) - Git, Github, Bitbucket, Gitlab
-https://nbcodeblog.github.io
+# https://nbcodeblog.github.io
 💠 Web languages - HTML, CSS, JS, Node.js, PHP, SQL, MySQL, MongoDB
-https://nbcodeblog.blogspot.com
+# https://nbcodeblog.blogspot.com
 💠 Software Languages - C, C++, C#, Java, Python
-https://github.com/nbcodeblog
+# https://github.com/nbcodeblog
 💠 Computer languages and technologies started from beginning to infinite level.
