@@ -4,6 +4,9 @@ table {
     width: 100%;
     text-align: center;
 }
+td {
+    color: blue;
+}
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
