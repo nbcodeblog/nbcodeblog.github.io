@@ -11,3 +11,6 @@ table, th, td {
 a {
     text-decoration: none;
 }
+td {
+    color: blue;
+}
