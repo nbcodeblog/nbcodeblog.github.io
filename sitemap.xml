@@ -6,32 +6,22 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://nbcodeblog.github.io/</loc>
-  <lastmod>2023-12-10T19:29:54+00:00</lastmod>
+  <lastmod>2023-12-11T18:10:41+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://nbcodeblog.github.io/Git/git.html</loc>
-  <lastmod>2023-12-10T19:29:54+00:00</lastmod>
+  <lastmod>2023-12-11T18:10:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nbcodeblog.github.io/C++/cplusplus.html</loc>
-  <lastmod>2023-12-10T19:29:54+00:00</lastmod>
+  <lastmod>2023-12-11T18:10:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nbcodeblog.github.io/Git/Notes/notes.html</loc>
-  <lastmod>2023-12-10T19:29:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nbcodeblog.github.io/Git/Commands/commands.html</loc>
-  <lastmod>2023-12-10T19:29:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nbcodeblog.github.io/C++/Notes/notes.html</loc>
-  <lastmod>2023-12-10T19:29:54+00:00</lastmod>
+  <loc>https://nbcodeblog.github.io/Git/commands.html</loc>
+  <lastmod>2023-12-11T18:15:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 </urlset>
