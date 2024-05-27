@@ -1,0 +1,12 @@
+/* Index File CSS Code */
+.indtabwid1 {
+    width: 100%;
+}
+.indtab1 {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.indtablin1 {
+    text-decoration: none;
+}

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="HTML Tables">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Nitin Bhardwaj">
+    <meta http-equiv="refresh" content="1000">
+    <meta name="robots" content="Index, Follow">
+    <title>HTML Tables</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- HTML Tables -->
+    <h1>HTML Tables</h1>
+    <h2>Horizontal and Vertical Tables</h2>
+    <table>
+        <caption>Horizontal Table</caption>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Role</th>
+                <th>Code</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Nitin</td>
+                <td>Developer</td>
+                <td>001</td>
+            </tr>
+            <tr>
+                <td>Naman</td>
+                <td>Designer</td>
+                <td>002</td>
+            </tr>
+            <tr>
+                <td>Ayush</td>
+                <td>Administrator</td>
+                <td>003</td>
+            </tr>
+        </tbody>
+    </table>
+    <br><br>
+
+    <table>
+        <caption>Vertical Table</caption>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <td>Nitin</td>
+                <td>Naman</td>
+                <td>Ayush</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Role</th>
+                <td>Developer</td>
+                <td>Designer</td>
+                <td>Administrator</td>
+            </tr>
+            <tr>
+                <th>Code</th>
+                <td>001</td>
+                <td>002</td>
+                <td>003</td>
+            </tr>
+        </tbody>
+    </table>
+    <br><br>
+
+    <table>
+        <caption>Horizontal and Vertical Table</caption>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Developer</th>
+                <th>Designer</th>
+                <th>Administrator</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>8:00 AM</th>
+                <td>5</td>
+                <td>2</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <th>9:00 AM</th>
+                <td>2</td>
+                <td>1</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <th>10:00 AM</th>
+                <td>10</td>
+                <td>5</td>
+                <td>2</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Table Colspan and Rowspan Attributes</h2>
+    <table>
+        <caption>Colspan Attribute</caption>
+        <thead>
+            <tr>
+                <th colspan="2">Name</th>
+                <th>Role</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Nitin</td>
+                <td>Bhardwaj</td>
+                <td>Developer</td>
+            </tr>
+            <tr>
+                <td>Naman</td>
+                <td>Sharma</td>
+                <td>Designer</td>
+            </tr>
+            <tr>
+                <td>Ayush</td>
+                <td>Khurana</td>
+                <td>Administrator</td>
+            </tr>
+        </tbody>
+    </table>
+    <br><br>
+
+    <table>
+        <caption>Rowspan Attribute</caption>
+        <thead>
+            <tr>
+                
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Name</th>
+                <td>Nitin</td>
+                <td>Naman</td>
+            </tr>
+            <tr>
+                <th rowspan="2">Role</th>
+                <td>Developer</td>
+                <td>Administrator</td>
+            </tr>
+            <tr>
+                <td>Designer</td>
+                <td>Tester</td>
+            </tr>
+        </tbody>
+    </table>
+    <br><br>
+
+    <table>
+        <caption>Colspan and Rowspan Attribute</caption>
+        <thead>
+            <tr>
+                <th colspan="3">Developers</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Nitin</td>
+                <td>Naman</td>
+                <td>Ayush</td>
+            </tr>
+            <tr>
+                <th rowspan="2">Testers</th>
+                <td>Nitin</td>
+                <td>Naman</td>
+            </tr>
+            <tr>
+                <td>Ronak</td>
+                <td>Siddarth</td>
+            </tr>
+            <tr>
+                <td>Vansh</td>
+                <td>Prateek</td>
+                <td>Vishesh</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
