@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    max-width: 800px;
+}
+table, th, td {
+    border: 2px solid lightblue;
+    border-collapse: collapse;
+    text-align: justify;
+}
+a {
+    text-decoration: none;
+}
+tr:hover {
+    background-color: lightgreen;
+}
