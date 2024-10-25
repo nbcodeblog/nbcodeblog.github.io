@@ -1,2 +1,2 @@
 # nbcodeblog.github.io
-HTML, CSS, JavaScript start from beginning to infinite level.
+HTML, CSS, and JavaScript from the beginning to an infinite level.
