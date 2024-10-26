@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This Page About CSS Background Clip">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Nitin Bhardwaj">
+    <meta name="robots" content="index, follow">
+    <title>CSS Background Clip</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <style>
+        .background_clip1 {
+            border: 10px dotted red;
+            padding: 15px;
+            background-color: lightblue;
+            background-repeat: no-repeat;
+            background-clip: border-box;
+        }
+        .background_clip2 {
+            border: 10px dotted red;
+            padding: 15px;
+            background-color: lightblue;
+            background-repeat: no-repeat;
+            background-clip: padding-box;
+        }
+        .background_clip3 {
+            border: 10px dotted red;
+            padding: 15px;
+            background-color: lightblue;
+            background-repeat: no-repeat;
+            background-clip: content-box;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Background Clip</h1>
+    <h2>Border-box Default</h2>
+    <p class="background_clip1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque nemo modi neque expedita? Libero quasi, eos culpa sequi autem esse?</p>
+
+    <h2>Padding-box</h2>
+    <p class="background_clip2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque nemo modi neque expedita? Libero quasi, eos culpa sequi autem esse?</p>
+
+    <h2>Content-box</h2>
+    <p class="background_clip3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque nemo modi neque expedita? Libero quasi, eos culpa sequi autem esse?</p>
+</body>
+</html>
