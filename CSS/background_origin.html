@@ -8,40 +8,21 @@
     <meta name="author" content="Nitin Bhardwaj">
     <meta name="robots" content="index, follow">
     <title>CSS Background Origin</title>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/Favicon/favicon.ico" type="image/x-icon">
     <style>
         .background_origin1 {
             border: 10px dashed blue;
             padding: 25px;
-            background-image: url("nbcodeblog_image.webp");
+            background-image: url("/Images/nbcodeblog_image.webp");
             background-repeat: no-repeat;
             background-origin: padding-box;
-        }
-        .background_origin2 {
-            border: 10px dashed blue;
-            padding: 25px;
-            background-image: url("nbcodeblog_image.webp");
-            background-repeat: no-repeat;
-            background-origin: border-box;
-        }
-        .background_origin3 {
-            border: 10px dashed blue;
-            padding: 25px;
-            background-image: url("nbcodeblog_image.webp");
-            background-repeat: no-repeat;
-            background-origin: content-box;
+            /* background-origin: border-box; */
+            /* background-origin: content-box; */
         }
     </style>
 </head>
 <body>
     <h1>CSS Background Origin</h1>
-    <h2>Padding-box Default</h2>
     <p class="background_origin1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati, asperiores!</p>
-
-    <h2>Border-box</h2>
-    <p class="background_origin2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati, asperiores!</p>
-
-    <h2>Content-box</h2>
-    <p class="background_origin3">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati, asperiores!</p>
 </body>
 </html>
