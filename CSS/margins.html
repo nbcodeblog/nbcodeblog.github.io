@@ -12,30 +12,51 @@
     <style>
         .margin1 {
             border: 2px solid red;
-            margin: 25px;
+            margin: 10px;
+            /* margin: 10px 15px; */
+            /* margin: 10px 15px 20px; */
+            /* margin: 10px 15px 20px 25px; */
         }
+
         .margin2 {
-            border: 2px solid red;
-            margin: 5px 10px 15px 20px;
+            border: 2px solid blue;
+            margin-top: 20px;
+            margin-right: 25px;
+            margin-bottom: 30px;
+            margin-left: 35px;
         }
 
         .margin3 {
-            border: 2px solid red;
-            margin: 0 0 50px 0;
+            border: 2px solid green;
+            width: 300px;
+            margin: auto;
         }
+
+        div {
+            border: 2px solid magenta;
+            margin-left: 100px;
+        }
+
         .margin4 {
-            border: 2px solid red;
-            margin: 20px 0 0 0;
+            margin-left: inherit;
         }
     </style>
 </head>
 <body>
     <h1>CSS Margins</h1>
-    <p class="margin1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque, repellendus?</p>
-    <p class="margin2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque, repellendus?</p>
+    <h2>Margin Shorthand Property</h2>
+    <p class="margin1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur expedita doloribus iure! Quia illo, suscipit tenetur quis atque facilis deleniti. Iste eveniet, corporis in nostrum unde nulla enim sed porro dolorem iure maxime autem doloribus quo ex voluptatum reprehenderit repellendus laborum suscipit illum et quae ratione deserunt? Incidunt, dolores.</p>
+    <p class="margin1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur expedita doloribus iure! Quia illo, suscipit tenetur quis atque facilis deleniti. Iste eveniet, corporis in nostrum unde nulla enim sed porro dolorem iure maxime autem doloribus quo ex voluptatum reprehenderit repellendus laborum suscipit illum et quae ratione deserunt? Incidunt, dolores.</p>
 
-    <h2>Margin Collapse</h2>
-    <p class="margin3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolorum possimus delectus? Voluptas quidem eveniet assumenda, dicta voluptate corporis obcaecati, beatae, aliquam delectus enim optio at a distinctio accusantium nisi incidunt! Consectetur, fuga ea est officia cum repellendus rerum ducimus dolores accusamus doloribus sit expedita ratione ipsa quibusdam laudantium totam!</p>
-    <p class="margin4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolorum possimus delectus? Voluptas quidem eveniet assumenda, dicta voluptate corporis obcaecati, beatae, aliquam delectus enim optio at a distinctio accusantium nisi incidunt! Consectetur, fuga ea est officia cum repellendus rerum ducimus dolores accusamus doloribus sit expedita ratione ipsa quibusdam laudantium totam!</p>
+    <h2>Individual Sides Margin</h2>
+    <p class="margin2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam illo reprehenderit odio enim. Vero ducimus est sed natus, commodi ullam non quam praesentium, tempore porro minima doloremque laboriosam asperiores in voluptatum voluptatem tenetur vitae fugiat! Omnis, quia, sed magnam id aliquid, aut nihil rerum illum fugiat nam minus? Incidunt, aperiam.</p>
+
+    <h2>Auto Margin</h2>
+    <p class="margin3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sit sapiente totam, itaque, nesciunt corrupti quos distinctio ullam harum quia minus! Vel animi eum fuga fugiat dolores magnam, deserunt est sequi voluptatem ad eligendi dolore similique, ratione necessitatibus quae itaque quibusdam voluptas? Ex dolores distinctio nemo fugit voluptatibus eum vero!</p>
+
+    <h2>Inherit Margin</h2>
+    <div>
+        <p class="margin4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, libero. Officia aliquid non harum dolor blanditiis facere illum eaque nisi maiores ipsum adipisci nostrum at numquam quaerat quasi amet voluptate omnis magnam, sed, culpa fugit laborum id. Similique fugit dolorum asperiores quidem, vel praesentium. Delectus numquam fugit error eum commodi.</p>
+    </div>
 </body>
 </html>
