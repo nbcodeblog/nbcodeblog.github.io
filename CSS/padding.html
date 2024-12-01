@@ -12,17 +12,44 @@
     <style>
         .padding1 {
             border: 2px solid red;
-            padding: 25px;
+            padding: 10px;
+            /* padding: 10px 15px; */
+            /* padding: 10px 15px 20px; */
+            /* padding: 10px 15px 20px 25px; */
         }
         .padding2 {
             border: 2px solid red;
-            padding: 5px 10px 15px 20px;
+            padding-top: 10px;
+            padding-right: 15px;
+            padding-bottom: 20px;
+            padding-left: 25px;
+        }
+
+        .padding3 {
+            background-color: lightblue;
+            width: 300px;
+            padding: 25px;
+        }
+
+        .padding4 {
+            background-color: lightblue;
+            width: 300px;
+            padding: 25px;
+            box-sizing: border-box;
         }
     </style>
 </head>
 <body>
-    <h1>CSS Padding</h1>
+    <h1>CSS Paddings</h1>
+    <h2>Padding Shorthand Property</h2>
     <p class="padding1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, quis.</p>
+
+    <h2>Individual Side Padding</h2>
     <p class="padding2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, quis.</p>
+
+    <h2>Padding and Element Width</h2>
+    <p class="padding3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde cum placeat obcaecati magni molestiae, exercitationem minus deleniti qui, harum culpa voluptatibus expedita, labore repellendus soluta commodi sunt ipsum aliquam omnis voluptate consequatur necessitatibus quam at in. Provident libero ducimus consequatur adipisci pariatur, a consectetur dicta, placeat debitis illum beatae quaerat.</p>
+
+    <p class="padding4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores numquam ab minus est officiis molestiae exercitationem, autem quaerat laborum beatae cumque fugiat laudantium consequuntur libero vitae mollitia? Autem obcaecati ratione inventore nam, voluptas libero beatae corrupti vero nemo distinctio. Impedit quos nulla rem minima quidem soluta nam nesciunt debitis vero.</p>
 </body>
 </html>
