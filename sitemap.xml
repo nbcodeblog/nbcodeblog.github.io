@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nbcodeblog.github.io/</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/contents.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/contents.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/contents.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/Git/contents.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/C/contents.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/headings.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/paragraphs.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/anchors_links.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/base_tag.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/images.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/break_rule.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/word_break_rule.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/horizontal_rule.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/preformatted_text.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/text_formatting_elements.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/ruby_tag.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/quotation_and_citation_elements.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/comments.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/meta_tags.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/id_and_class.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/tables.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/lists.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/block_and_inline_elements.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/iframes.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/empty_elements.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/semantic_layout_elements.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/non-semantic_layout_elements.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/computer_code_elements.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/entities.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/forms.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/graphics.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/audio.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/audio.preload.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/param_tag.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/video.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/video_poster.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/plugins.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/youtube.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/HTML/noscript_tag.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/element_selector.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/id_selector.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/class_selector.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/universal_selector.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/grouping_selector.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/inline_css.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/internal_css.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/external_css.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/cascading_order.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/comments.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/named_colors.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/rgb_colors.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/hex_colors.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/hsl_colors.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_color.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_image.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_repeat.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_position.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_size.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_origin.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_clip.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_attachment.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/CSS/background_shorthand.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/introduction.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/javascript_where_to.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/output.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/Git/git_introduction.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/Git/git_commands.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/C/introduction.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/javascript_in_head.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/javascript_in_body.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/external_javascript.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/innerhtml.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/document.write.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/window.alert.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/console.log.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nbcodeblog.github.io/JavaScript/javascript_print.html</loc>
+  <lastmod>2025-01-01T11:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
