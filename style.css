@@ -1,21 +1,7 @@
+/* Default Style */
 * {
     padding: 0;
     margin: 0;
-}
-table {
-    width: 100%;
-    max-width: 800px;
-}
-table, th, td {
-    border: 2px solid lightblue;
-    border-collapse: collapse;
-    text-align: justify;
-}
-a {
-    text-decoration: none;
-}
-tr:hover {
-    background-color: lightgreen;
 }
 
 /* Navbar Style */
@@ -44,6 +30,40 @@ nav {
 
 .nav_links a:hover {
     color: #00bcd4;
+}
+
+/* Main Section Style */
+body {
+    background-color: lightcyan;
+}
+
+section {
+    background-color: lightslategray;
+}
+
+article {
+    padding: 20px;
+    margin: 20px;
+    background-color: lightgray;
+}
+
+article ul {
+    padding: 10px;
+}
+
+.anchor1 {
+    text-decoration: none;
+    float: right;
+}
+
+.anchor2 {
+    text-decoration: none;
+    float: right;
+}
+
+.anchor3 {
+    text-decoration: none;
+    float: right;
 }
 
 /* Footer Style */
@@ -82,12 +102,4 @@ footer {
 
 .social_media a:hover {
     text-decoration: underline;
-}
-
-/* HTML Decoration */
-.div1 {
-    color: green;
-    background-color: coral;
-    padding: 10px;
-    margin: 10px;
 }
