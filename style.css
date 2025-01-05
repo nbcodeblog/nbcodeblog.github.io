@@ -83,3 +83,11 @@ footer {
 .social_media a:hover {
     text-decoration: underline;
 }
+
+/* HTML Decoration */
+.div1 {
+    color: green;
+    background-color: coral;
+    padding: 10px;
+    margin: 10px;
+}
