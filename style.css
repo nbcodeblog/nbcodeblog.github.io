@@ -78,6 +78,16 @@ article ul {
     float: right;
 }
 
+.anchor4 {
+    text-decoration: none;
+    float: right;
+}
+
+.anchor5 {
+    text-decoration: none;
+    float: right;
+}
+
 /* Footer Style */
 footer {
     background-color: #333;
