@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This Page About CSS Background Origin">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Node.js, PHP, Python, SQL, MySQL, MongoDB, XML, XHTML, SAAS, TypeScript, Bootstrap, Tailwind CSS, React.js, Angular.js, Vue.js, jQuery, Express.js, Nest.js, Laravel, Django, Flask, Git, Github, Bitbucket, Gitlab">
+    <meta name="author" content="Nitin Bhardwaj">
+    <meta name="robots" content="index, follow">
+    <title>CSS Background Origin</title>
+    <link rel="shortcut icon" href="/Favicon/favicon.ico" type="image/x-icon">
+    <style>
+        .para1 {
+            border: 10px dotted lightblue;
+            padding: 10px;
+            background-image: url("/Images/nbcodeblog_image.png");
+            background-repeat: no-repeat;
+            background-size: 50px 50px;
+        }
+
+        .para2 {
+            border: 10px dotted lightblue;
+            padding: 10px;
+            background-image: url("/Images/nbcodeblog_image.png");
+            background-repeat: no-repeat;
+            background-size: 50px 50px;
+            background-origin: border-box;
+        }
+
+        .para3 {
+            border: 10px dotted lightblue;
+            padding: 10px;
+            background-image: url("/Images/nbcodeblog_image.png");
+            background-repeat: no-repeat;
+            background-size: 50px 50px;
+            background-origin: content-box;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Background Origin</h1>
+    <p>Note : This property has no effect if background-attachment is "fixed".</p>
+    <h2>By Default Padding-Box</h2>
+    <p class="para1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, rerum fugit. Ab accusamus, illum accusantium obcaecati minima voluptatem repellendus in, repudiandae laborum quisquam consequuntur perspiciatis placeat rem voluptates eaque nobis itaque iste? Maiores est iure modi eveniet. Neque tempora exercitationem, quos non blanditiis enim eaque provident rerum? Voluptatibus, praesentium voluptate!</p>
+
+    <h2>Border-Box</h2>
+    <p class="para2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, possimus necessitatibus excepturi sint architecto libero, repudiandae eius nulla nostrum alias neque! Illo nemo id cumque accusamus dolorem eaque doloribus. Iste aperiam sapiente in quod obcaecati. Laborum natus praesentium minima aliquam, ullam mollitia eum expedita et dolor adipisci beatae, quas totam!</p>
+
+    <h2>Content-Box</h2>
+    <p class="para3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, possimus necessitatibus excepturi sint architecto libero, repudiandae eius nulla nostrum alias neque! Illo nemo id cumque accusamus dolorem eaque doloribus. Iste aperiam sapiente in quod obcaecati. Laborum natus praesentium minima aliquam, ullam mollitia eum expedita et dolor adipisci beatae, quas totam!</p>
+</body>
+</html>
