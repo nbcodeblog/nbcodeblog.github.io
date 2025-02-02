@@ -7,6 +7,7 @@
 /* Header Style */
 header {
     background-color: lightgoldenrodyellow;
+    max-width: 100vw;
     padding: 50px;
     margin: 10px;
     text-align: center;
@@ -14,6 +15,7 @@ header {
 
 header h1 {
     font-size: 40px;
+    max-width: 100vw;
 }
 
 /* Navbar Style */
