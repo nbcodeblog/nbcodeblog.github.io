@@ -30,6 +30,7 @@ nav {
 .nav_links {
     list-style: none;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .nav_links li {
