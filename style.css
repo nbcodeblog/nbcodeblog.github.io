@@ -130,6 +130,7 @@
     gap: 0.5rem;
     justify-content: center;
     margin-top: 1rem;
+    padding: 1rem;
 }
 .footer ul a{
     text-decoration: none;
@@ -141,6 +142,7 @@
 .footer .footer-bottom{
     display: grid;
     padding: 1rem;
+    grid: none/auto;
     justify-content: center;
     align-content: center;
 }
@@ -158,13 +160,22 @@
 
     .nav ul{
         display: grid;
-        grid: none/1fr;
+        grid: none/auto;
         justify-content: center;
         align-content: center;
     }
 
     .footer .footer-top{
         display: grid;
-        grid-template-columns: 1fr;
+        grid: none/auto;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .footer .footer-bottom{
+        display: grid;
+        grid-template-columns: auto;
+        justify-content: center;
+        align-content: center;
     }
 }
