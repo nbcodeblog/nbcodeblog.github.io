@@ -1,135 +1,170 @@
 /* Default Style */
-* {
+*{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-/* Header Style */
-header {
-    background-color: lightgoldenrodyellow;
-    max-width: 100vw;
-    padding: 50px;
-    margin: 10px;
-    text-align: center;
-}
-
-header h1 {
-    font-size: 40px;
-    max-width: 100vw;
-}
-
-/* Navbar Style */
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #333;
-    padding: 10px 20px;
-}
-
-.nav_links {
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.nav_links li {
-    margin: 0 15px;
-}
-
-.nav_links a {
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-}
-
-.nav_links a:hover {
-    color: #00bcd4;
-}
-
-/* Main Section Style */
-body {
+/* Grid Container Style */
+.grid-container{
+    display: grid;
+    grid: "header header" auto
+    "nav nav" auto
+    "main aside" 1fr
+    "footer footer" auto
+    /1fr 0.3fr;
+    gap: 1rem;
     background-color: lightcyan;
+    padding: 1rem;
+    min-height: 100vh;
 }
 
-section {
+/* Grid Item Style */
+.grid-item{
+    background-color: #f1f1f1;
+}
+
+/* Header Style */
+.header{
+    grid-area: header;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    gap: 1rem;
+    background-color: lightgoldenrodyellow;
+    padding: 1rem;
+}
+.header h1{
+    font-size: 3rem;
+}
+
+/* Navigation Menu Style */
+.nav{
+    grid-area: nav;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background-color: #333;
+    padding: 1rem;
+}
+.nav ul{
+    list-style-type: none;
+    display: grid;
+    grid: none/auto auto auto auto auto;
+    gap: 1rem;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+.nav ul li a:hover{
+    color: #f1c40f;
+}
+
+/* Main Content Style */
+.main{
+    grid-area: main;
+    display: grid;
+    gap: 1rem;
     background-color: lightslategray;
+    padding: 1rem;
+}
+.main section{
+    display: grid;
+    background-color: lightgrey;
+    padding: 2rem;
+}
+.main section article ul{
+    margin-top: 1rem;
+}
+.main section article .side{
+    display: grid;
+    justify-content: end;
 }
 
-article {
-    padding: 20px;
-    margin: 20px;
+/* Sidebar Style */
+.aside{
+    grid-area: aside;
+    display: grid;
+    background-color: lightslategray;
+    padding: 1rem;
+}
+.aside .aside-container{
+    display: grid;
+    justify-content: center;
+    align-content: start;
     background-color: lightgray;
+    padding: 1rem;
 }
-
-article ul {
-    padding: 10px;
+.aside ol{
+    display: grid;
+    gap: 1rem;
+    padding: 0.5rem;
 }
-
-.anchor1 {
+.aside a{
     text-decoration: none;
-    float: right;
+    color: red;
 }
-
-.anchor2 {
-    text-decoration: none;
-    float: right;
-}
-
-.anchor3 {
-    text-decoration: none;
-    float: right;
-}
-
-.anchor4 {
-    text-decoration: none;
-    float: right;
-}
-
-.anchor5 {
-    text-decoration: none;
-    float: right;
+.aside a:hover{
+    color: #f1c40f;
 }
 
 /* Footer Style */
-footer {
+.footer{
+    grid-area: footer;
+    display: grid;
     background-color: #333;
     color: #fff;
-    text-align: center;
-    padding: 20px 0;
-    margin: 5px;
 }
-
-.footer_content ul {
+.footer .footer-top{
+    display: grid;
+    grid: none/auto auto;
+    padding: 1rem;
+    gap: 1rem;
+    justify-content: space-evenly;
+    align-content: center;
+}
+.footer ul{
     list-style-type: none;
-    margin: 10px;
+    display: grid;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 1rem;
 }
-
-.footer_content ul li {
-    display: inline;
-    margin: 0 10px;
-}
-
-.footer_content ul li a {
-    color: #fff;
+.footer ul a{
     text-decoration: none;
-}
-
-.social_media {
-    margin: 10px;
-}
-
-.social_media a {
-    margin: 0 10px;
     color: #fff;
-    text-decoration: none;
+}
+.footer ul a:hover{
+    color: #f1c40f;
+}
+.footer .footer-bottom{
+    display: grid;
+    padding: 1rem;
+    justify-content: center;
+    align-content: center;
 }
 
-.social_media a:hover {
-    text-decoration: underline;
-}
+/* Responsive Style */
+@media (max-width:768px){
+    .grid-container{
+        grid: "header" auto
+        "nav" auto
+        "main" 1fr
+        "aside" auto
+        "footer" auto
+        /1fr;
+    }
 
-.anchor6 {
-    font-size: 24px;
+    .nav ul{
+        display: grid;
+        grid: none/1fr;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .footer .footer-top{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }
