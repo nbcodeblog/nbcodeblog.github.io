@@ -144,7 +144,9 @@
     }
 
     .footer{
+        flex-flow: column wrap;
         align-items: center;
+        justify-content: center;
     }
 
     .footer-top{
@@ -153,9 +155,9 @@
         justify-content: center;
     }
 
-    .footer-bottom{
+    /* .footer-bottom{
         flex-flow: row wrap;
         justify-content: center;
         align-items: center;
-    }
+    } */
 }
