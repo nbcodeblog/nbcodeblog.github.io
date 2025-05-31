@@ -13,6 +13,7 @@
             "main" 1fr
             "footer" auto
             /1fr;
+            font-size: 1.5vw;
 }
 
 /* Header Style */
@@ -59,7 +60,7 @@
 .main{
     grid-area: main;
     background-color: lightslategray;
-    font-size: 1.1rem;
+    /* font-size: 1.1rem; */
 }
 .section{
     display: flex;
@@ -136,6 +137,7 @@
             "main" 1fr
             "footer" auto
             /1fr;
+            font-size: 4vw;
     }
 
     .nav ul{
