@@ -21,10 +21,10 @@
     align-items: center;
     gap: 1rem;
     padding: 1rem;
-    margin: auto;
+    margin: 0 auto;
+    width: 38rem;
 }
 .header-container .para{
-    width: 35rem;
     text-align: center;
     color: rgb(105, 99, 99);
 }
@@ -40,6 +40,7 @@
     margin: 0 1rem;
     width: 70vw;
     margin: auto;
+    padding: 0.5rem;
 }
 .item1{
     grid-area: item1;
@@ -153,6 +154,12 @@
 }
 
 @media (max-width:768px){
+    .grid-container{
+        grid: "header" auto
+                "main" auto
+                /1fr;
+    }
+
     .main-container{
         grid: "item1 item2" 1fr
                 "item3 item4" 1fr
@@ -163,6 +170,12 @@
 }
 
 @media (max-width:480px){
+    .grid-container{
+        grid: "header" auto
+                "main" auto
+                /1fr;
+    }
+
     .main-container{
         grid: "item1" auto
                 "item2" auto
