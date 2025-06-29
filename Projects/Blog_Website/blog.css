@@ -20,9 +20,8 @@
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    padding: 1rem;
+    padding: 0.5rem;
     margin: 0 auto;
-    width: 38rem;
 }
 .header-container .para{
     text-align: center;
@@ -32,39 +31,12 @@
 .main-container{
     grid-area: main;
     display: grid;
-    /* grid: none/repeat(4, 1fr); */
-    grid: "item1 item2 item3 item4" 1fr
-            "item5 item6 item7 item8" 1fr
-            /1fr 1fr 1fr 1fr;
+    grid: none/repeat(4, 1fr);
     gap: 1.5rem;
     margin: 0 1rem;
     width: 70vw;
-    margin: auto;
+    margin: 0 auto;
     padding: 0.5rem;
-}
-.item1{
-    grid-area: item1;
-}
-.item2{
-    grid-area: item2;
-}
-.item3{
-    grid-area: item3;
-}
-.item4{
-    grid-area: item4;
-}
-.item5{
-    grid-area: item5;
-}
-.item6{
-    grid-area: item6;
-}
-.item7{
-    grid-area: item7;
-}
-.item8{
-    grid-area: item8;
 }
 
 .item:hover .image-container{
@@ -75,7 +47,7 @@
 .main-container .item{
     display: flex;
     flex-flow: column wrap;
-    border: 1px solid gray;
+    border: 1px solid rgb(213, 207, 207);
     border-radius: 0.5rem;
     overflow: hidden;
 }
@@ -84,6 +56,12 @@
     position: relative;
     overflow: hidden;
     height: 10rem;
+}
+
+@media (max-width:768px){
+    .image-container{
+        height: 7rem;
+    }
 }
 .image-container img{
     object-fit: cover;
@@ -116,7 +94,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     padding: 0.5rem;
 }
 .bottom-left{
@@ -153,7 +131,25 @@
     font-size: 0.7rem;
 }
 
-@media (max-width:768px){
+@media (max-width:1169px){
+    .main-container{
+        grid: none/repeat(3, 1fr);
+    }
+}
+
+@media (max-width:869px){
+    .main-container{
+        grid: none/repeat(2, 1fr);
+    }
+}
+
+@media (max-width:575px){
+    .main-container{
+        grid: none/1fr;
+    }
+}
+
+/* @media (max-width:768px){
     .main-container{
         grid: "item1 item2" 1fr
                 "item3 item4" 1fr
@@ -175,4 +171,4 @@
                 "item8" auto
                 /1fr;
     }
-}
+} */
