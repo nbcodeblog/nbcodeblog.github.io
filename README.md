@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and shari
 - 🌱 I’m currently learning more about cloud computing and Kubernetes.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 💬 Ask me about HTML, CSS, JavaScript, and any development-related topics.
-- 📫 How to reach me: [https://nbcodeblog.gthub.io] , [nbpn5837@proton.me]
+- 📫 How to reach me: [https://nbcodeblog.gthub.io] , [nbcodebloghelpteam@gmail.com]
 - ⚡ Fun fact: I love exploring new programming languages and frameworks.
 
 ## 🛠️ Technologies & Tools
@@ -31,29 +31,16 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and shari
 
 - [Github](https://github.com/nbcodeblog)
 - [Stack Overflow](https://stackoverflow.com/users/29058866/nbcodeblog)
-- [Discord](https://discord.gg/QmMCbXddPx)
-- [Mastodon](https://mastodon.social/@nbcodeblogmastodon)
-- [Quora](https://www.quora.com/profile/Nbcodeblog)
 - [LinkedIn](https://www.linkedin.com/in/nbcodeblog)
 - [Twitter](https://twitter.com/nbcodeblog)
 - [Instagram](https://instagram.com/nbcodeblog)
-- [Threads](https://www.threads.net/@nbcodeblog)
 - [Facebook](https://facebook.com/nbcodeblog)
-- [Facebook Page](https://www.facebook.com/nbcodeblogfacebookpage)
-- [Pinterest](https://in.pinterest.com/nbcodeblog)
-- [Tumblr](https://www.tumblr.com/nbcodeblog)
 - [Youtube](https://www.youtube.com/@nbcodeblog)
-- [Unsplash](https://unsplash.com/@nbcodeblog)
-- [Flickr](https://www.flickr.com/photos/nbcodeblog/)
-- [Spotify](https://open.spotify.com/playlist/02pjfTbQllLhoXtTMjnhGe?si=562e123ae0b14c25)
-- [Spotify](https://open.spotify.com/playlist/56FxkgcXPleTmtPGqvr6vw?si=e09445b19c554775)
-- [Spotify](https://open.spotify.com/playlist/59jWAKmc0Z4n2rmGi2dy7y?si=708846bc8e774952)
-- [IMDb](https://www.imdb.com/user/ur181525749/?ref_=ext_shr_lnk)
-- [Telegram Channel](https://t.me/nbcodeblogtelegram)
+- [Spotify](https://open.spotify.com/playlist/02pjfTbQllLhoXtTMjnhGe?si=Hccl7xIYTfOjznelBT-u6Q&pi=tP-nMJJlQEOZq)
+- [Spotify](https://open.spotify.com/playlist/56FxkgcXPleTmtPGqvr6vw?si=RfyghZVeRymxpcI6dQxy9w)
+- [IMDb]( https://www.imdb.com/user/ur181525749/?ref_=ext_shr_lnk)
 - [WhatsApp Channel](https://whatsapp.com/channel/0029Vb1FXipLNSa7NOOyDM0E)
-- [WhatsApp Community](https://chat.whatsapp.com/Ih6zmmyhlztCGDiy2x8hYK)
-- [WhatsApp Community Talking Group](https://chat.whatsapp.com/LyXmkNbgArdKbsvSuhQDcK)
-- [Skype Group](https://join.skype.com/tt1lC56qXNXR)
+- [WhatsApp Community](https://chat.whatsapp.com/Ih6zmmyhlztCGDiy2x8hYK?mode=ems_copy_t)
 - [Website](https://nbcodeblog.github.io)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
