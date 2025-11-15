@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This Page About CSS Horizontal Navbar Using Flexbox">
+    <meta name="keywords" content="HTML, CSS">
+    <meta name="author" content="Nitin Bhardwaj">
+    <meta name="robots" content="index, follow">
+    <title>CSS Horizontal Navbar Using Flexbox</title>
+    <link rel="shortcut icon" href="/Assets/favicon.ico" type="image/x-icon">
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        :root{
+            --backgroundcolor:#f1f1f1;
+            --color:#000;
+            --hoverbackgroundcolor:#555;
+            --hovercolor:#fff;
+            --activebackgroundcolor:#04aa6d;
+            --activecolor:#fff;
+            --padding:1rem;
+            --width:100vw;
+        }
+        ul{
+            display: flex;
+            justify-content: start;
+            align-items: start;
+            flex-wrap: wrap;
+            list-style-type: none;
+            overflow: hidden;
+            background-color: var(--backgroundcolor);
+            padding: var(--padding);
+            width: var(--width);
+            position: relative;
+        }
+        ul .float{
+            
+        }
+        ul li a{
+            text-decoration: none;
+            color: var(--color);
+            padding: var(--padding);
+        }
+        ul li a.active{
+            background-color: var(--activebackgroundcolor);
+            color: var(--activecolor);
+        }
+        ul li a:hover:not(.active){
+            background-color: var(--hoverbackgroundcolor);
+            color: var(--hovercolor);
+        }
+        ul li.float{
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Horizontal Navbar Using Flexbox</h1>
+    <ul>
+        <li><a href="#" target="_blank" title="Link">Home</a></li>
+        <li><a href="#" target="_blank" title="Link">News</a></li>
+        <li><a href="#" target="_blank" title="Link">Contact</a></li>
+        <div>
+            <li class="float"><a class="active" href="#" target="_blank" title="Link">About</a></li>
+        </div>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This Page About CSS Grid Track Property">
+    <meta name="keywords" content="HTML, CSS">
+    <meta name="author" content="Nitin Bhardwaj">
+    <meta name="robots" content="index, follow">
+    <title>CSS Grid Track Property</title>
+    <link rel="shortcut icon" href="/Assets/favicon.ico" type="image/x-icon">
+    <style>
+        /* Grid Template Column Property */
+        .grid-container{
+            display: grid;
+            /* grid-template-columns: 50px 200px 200px; */
+            /* grid-template-columns: 33% 33% 33%; */
+            /* grid-template-columns: fit-content(80px) auto fit-content(100px); */
+            /* grid-template-columns: 1fr 1fr 1fr; */
+            /* grid-template-columns: 1fr 2fr 1fr; */
+            /* grid-template-columns: repeat(3, 1fr); */
+            grid-template-columns: auto auto auto;
+            background-color: dodgerblue;
+            padding: 10px;
+        }
+        .grid-container>div{
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+            font-size: 30px;
+        }
+
+        /* Grid Template Row Property */
+        .grid-container1{
+            display: grid;
+            /* grid-template-rows: 50px 200px 200px; */
+            /* grid-template-rows: 33% 33% 33%; */
+            /* grid-template-rows: 1fr 1fr 1fr; */
+            /* grid-template-rows: 1fr 2fr 1fr; */
+            /* grid-template-rows: repeat(3, 1fr); */
+            grid-template-rows: auto auto;
+            grid-template-columns: auto auto auto auto;
+            background-color: dodgerblue;
+            padding: 10px;
+        }
+        .grid-container1>div{
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+            font-size: 30px;
+        }
+
+        /* Grid Template Area Property */
+        .grid-container3{
+            display: grid;
+            grid-template-areas: "myarea myarea . .";
+            background-color: dodgerblue;
+            padding: 10px;
+        }
+        .grid-container3>div{
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+            font-size: 30px;
+        }
+        .grid-container3>div:nth-child(1){
+            grid-area: myarea;
+        }
+
+        /* Grid Template Shorthand Property */
+        .grid-container2{
+            display: grid;
+            /* grid-template: 50px/100px; */
+            /* grid-template: auto/auto auto auto; */
+            grid-template: "myarea myarea .";
+            background-color: dodgerblue;
+            padding: 10px;
+        }
+        .grid-container2>div{
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+            font-size: 30px;
+        }
+        .grid-container2>div:nth-child(1){
+            grid-area: myarea;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Grid Track Property</h1>
+    <h2>Grid Template Column Property</h2>
+    <div class="grid-container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+    </div>
+
+    <h2>Grid Template Row Property</h2>
+    <div class="grid-container1">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+    </div>
+
+    <h2>Grid Template Area Property</h2>
+    <div class="grid-container3">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+    </div>
+
+    <h2>Grid Template Shorthand Property</h2>
+    <div class="grid-container2">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+    </div>
+</body>
+</html>

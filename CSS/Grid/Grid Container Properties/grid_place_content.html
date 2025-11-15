@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This Page About CSS Grid Place Content">
+    <meta name="keywords" content="HTML, CSS">
+    <meta name="author" content="Nitin Bhardwaj">
+    <meta name="robots" content="index, follow">
+    <title>CSS Grid Place Content</title>
+    <link rel="shortcut icon" href="/Assets/favicon.ico" type="image/x-icon">
+    <style>
+        .grid-container{
+            display: grid;
+            grid-template-columns: auto auto auto;
+            gap: 10px;
+            /* place-content: center end; */
+            place-content: center;
+            background-color: dodgerblue;
+            padding: 10px;
+            height: 100vh;
+        }
+        .grid-container>div{
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Grid Place Content Shorthand Property</h1>
+    <div class="grid-container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+    </div>
+</body>
+</html>

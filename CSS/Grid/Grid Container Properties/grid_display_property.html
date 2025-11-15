@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This Page About CSS Grid Display Property">
+    <meta name="keywords" content="HTML, CSS">
+    <meta name="author" content="Nitin Bhardwaj">
+    <meta name="robots" content="index, follow">
+    <title>CSS Grid Display Property</title>
+    <link rel="shortcut icon" href="/Assets/favicon.ico" type="image/x-icon">
+    <style>
+        /* Display Grid */
+        .grid-container{
+            display: grid;
+            grid-template-columns: auto auto auto;
+            background-color: dodgerblue;
+            padding: 10px;
+        }
+        .grid-container>div{
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+            font-size: 30px;
+        }
+
+        /* Display Inline-Grid */
+        .grid-container1{
+            display: inline-grid;
+            grid-template-columns: auto auto auto;
+            background-color: dodgerblue;
+            padding: 10px;
+        }
+        .grid-container1>div{
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Grid Display Property</h1>
+    <h2>Display Grid</h2>
+    <div class="grid-container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+    </div>
+
+    <h2>Display Inline-Grid</h2>
+    <div class="grid-container1">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+    </div>
+</body>
+</html>
