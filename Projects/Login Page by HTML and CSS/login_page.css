@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("/Assets/login_page_background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    background-color: #86868652;
+    padding: 5rem;
+    border-radius: 1rem;
+    backdrop-filter: blur(1px);
+}
+
+.inputdata{
+    display: flex;
+    flex-flow: column wrap;
+    gap: 0.5rem;
+}
+
+.clickdata{
+    display: flex;
+    gap: 5rem;
+}
+
+.button{
+    padding: 0.5rem 2rem;
+}

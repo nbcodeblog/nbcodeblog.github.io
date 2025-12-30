@@ -1,0 +1,65 @@
+/* Default Style */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Float Container Style */
+.float-container{
+    background-color: dodgerblue;
+    padding: 1rem;
+    min-height: 100vh;
+}
+
+/* Float Item Style */
+.float-item{
+    background-color: #f1f1f1;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 25px;
+}
+
+/* Float Container Second Style */
+.float-container2{
+    width: 100%;
+    overflow: auto;
+}
+
+/* Main Content Style */
+.main{
+    width: 70%;
+    float: left;
+}
+
+/* Sidebar Style */
+.aside{
+    width: 29%;
+    float: right;
+}
+
+/* Float Container Second Clear Style */
+.float-container2::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Footer Style */
+.footer{
+    clear: both;
+}
+
+/* Float Responsive Style */
+@media (max-width: 768px){
+    .main{
+        width: 100%;
+        float: none;
+    }
+
+    .aside{
+        width: 100%;
+        float: none;
+    }
+}

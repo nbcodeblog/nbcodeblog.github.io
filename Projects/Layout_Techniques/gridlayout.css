@@ -1,0 +1,65 @@
+/* Default Style of Page */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Grid Container Style */
+.grid-container{
+    display: grid;
+    grid: "header header" auto
+    "nav nav" auto
+    "main aside" 1fr
+    "footer footer" auto
+    /1fr 0.5fr;
+    gap: 1rem;
+    background-color: dodgerblue;
+    padding: 1rem;
+    min-height: 100vh;
+}
+
+/* Grid Items Style */
+.grid-item{
+    background-color: #f1f1f1;
+    padding: 1rem;
+    text-align: center;
+    font-size: 25px;
+}
+
+/* Header Style */
+.header{
+    grid-area: header;
+}
+
+/* Navigation Menu Style */
+.nav{
+    grid-area: nav;
+}
+
+/* Main Content Style */
+.main{
+    grid-area: main;
+}
+
+/* Aside/Sidebar Style */
+.aside{
+    grid-area: aside;
+}
+
+/* Footer Style */
+.footer{
+    grid-area: footer;
+}
+
+/* Grid Responsive Style */
+@media (max-width: 768px){
+    .grid-container{
+        grid: "header" auto
+        "nav" auto
+        "main" 1fr
+        "aside" auto
+        "footer" auto
+        /1fr;
+    }
+}

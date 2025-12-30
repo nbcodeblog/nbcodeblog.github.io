@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This Page About CSS Background Origin">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Node.js, PHP, Python, SQL, MySQL, MongoDB, XML, XHTML, SAAS, TypeScript, Bootstrap, Tailwind CSS, React.js, Angular.js, Vue.js, jQuery, Express.js, Nest.js, Laravel, Django, Flask, Git, Github, Bitbucket, Gitlab">
+    <meta name="author" content="Nitin Bhardwaj">
+    <meta name="robots" content="index, follow">
+    <title>CSS Background Origin</title>
+    <link rel="shortcut icon" href="/Assets/favicon.ico" type="image/x-icon">
+    <style>
+        .para1 {
+            background-image: url("/Assets/nbcodeblog_image.webp");
+            border: 10px dashed red;
+            background-repeat: no-repeat;
+            background-size: 50px 50px;
+            padding: 25px;
+        }
+
+        .para2 {
+            background-image: url("/Assets/nbcodeblog_image.webp");
+            border: 10px dashed red;
+            background-repeat: no-repeat;
+            background-size: 50px 50px;
+            background-origin: border-box;
+            padding: 25px;
+        }
+
+        .para3 {
+            background-image: url("/Assets/nbcodeblog_image.webp");
+            border: 10px dashed red;
+            background-repeat: no-repeat;
+            background-size: 50px 50px;
+            background-origin: content-box;
+            padding: 25px;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Background Origin</h1>
+    <h2>Padding-Box By Default</h2>
+    <p class="para1">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis illo ducimus, et unde odit in facilis amet nam eligendi doloremque vel. Totam similique, quae voluptates ducimus saepe id dolor deserunt aliquam cupiditate repudiandae culpa quis doloribus natus velit necessitatibus quaerat! Soluta quasi, eum accusantium rerum praesentium odio officiis repudiandae fugit?</p>
+
+    <h2>Border-Box</h2>
+    <p class="para2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis illo ducimus, et unde odit in facilis amet nam eligendi doloremque vel. Totam similique, quae voluptates ducimus saepe id dolor deserunt aliquam cupiditate repudiandae culpa quis doloribus natus velit necessitatibus quaerat! Soluta quasi, eum accusantium rerum praesentium odio officiis repudiandae fugit?</p>
+
+    <h2>Content Box</h2>
+    <p class="para3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis illo ducimus, et unde odit in facilis amet nam eligendi doloremque vel. Totam similique, quae voluptates ducimus saepe id dolor deserunt aliquam cupiditate repudiandae culpa quis doloribus natus velit necessitatibus quaerat! Soluta quasi, eum accusantium rerum praesentium odio officiis repudiandae fugit?</p>
+</body>
+</html>
