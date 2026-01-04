@@ -87,6 +87,46 @@
     text-decoration: none;
 }
 
+/* HTML Contents Page Style */
+.htmlcontentheading{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+.htmlcontentdiv{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+.htmlcontentdiv2{
+    display: flex;
+    flex-flow: column wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    background-color: #f9f9f9;
+}
+.htmlcontentlink{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5rem;
+}
+.htmlcontentlink2{
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+}
+
 /* Footer Style */
 .footer{
     grid-area: footer;
