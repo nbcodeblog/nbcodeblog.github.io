@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and shari
 - [Threads](https://www.threads.com/@nbcodeblog)
 - [Twitter](https://twitter.com/nbcodeblog)
 - [LinkedIn](https://www.linkedin.com/in/nbcodeblog)
-- [Spotify](https://open.spotify.com/31aaymwjg6bmazj53zofsam4ppjm)
+- [Spotify](https://open.spotify.com/user/31aaymwjg6bmazj53zofsam4ppjm)
 - [IMDb](https://www.imdb.com/user/ur181525749/?ref_=ext_shr_lnk)
 - [WhatsApp Channel](https://whatsapp.com/channel/0029Vb71btWAYlULL4rOYX2m)
 - [WhatsApp Community](https://chat.whatsapp.com/Eg1a28fxA6u66qAoOleER2)
