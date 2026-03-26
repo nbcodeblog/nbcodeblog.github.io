@@ -17,5 +17,29 @@
 
     <h2>Absolute URL Image</h2>
     <img src="https://images.unsplash.com/photo-1771232718122-0b4166faec5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Nature Image" width="300" height="250">
+
+    <h2>Image as a Link</h2>
+    <a href="https://nbcodeblog.github.io" target="_blank"><img src="/Assets/logo.png" alt="nbcodeblog Logo" width="300" height="250"></a>
+
+    <h2>Image Map</h2>
+    <img src="/Assets/workplace_image.webp" alt="workplace Image" usemap="#image1">
+    <map name="image1">
+        <area shape="rect" coords="32,43,273,347" href="https://nbcodeblog.github.io" alt="nbcodeblog Website" target="_blank">
+        <area shape="rect" coords="290,170,335,245" href="https://nbcodeblog.github.io" alt="nbcodeblog Website" target="_blank">
+        <area shape="circle" coords="339,301,46" href="https://nbcodeblog.github.io" alt="nbcodeblog Website" target="_blank">
+    </map>
+    <br><br>
+
+    <img src="/Assets/frenchfood_image.webp" alt="frenchfood Image" usemap="#image2">
+    <map name="image2">
+        <area shape="poly" coords="181,114,140,118,129,143,106,154,88,192,63,211,41,257,38,277,43,306,41,320,48,344,73,352,80,353,117,335,161,294,182,267,208,214,202,159,187,140,186,121" href="https://nbcodeblog.github.io" alt="nbcodeblog Website" target="_blank">
+    </map>
+
+    <h2>Picture Element</h2>
+    <picture>
+        <source media="(min-width: 650px)" srcset="/Assets/nature_image1.webp">
+        <source media="(min-width: 465px)" srcset="/Assets/nature_image2.webp">
+        <img src="/Assets/logo.png" alt="nbcodeblog Logo" width="300" height="250">
+    </picture>
 </body>
 </html>
