@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and shari
 
 ## 📈 GitHub Stats
 
-![miraclewithnb's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraclewithnb&show_icons=true&theme=radical)
+![miraclewithnb GitHub stats](https://github-readme-stats.vercel.app/api?username=miraclewithnb&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
