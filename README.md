@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nitin Bhardwaj! (nbcodeblog)
+# 👋 Hi, I'm Nitin Bhardwaj! (miraclewithnb)
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and sharing knowledge with the community. Here you'll find a variety of projects that I've worked on, ranging from web development to open-source contributions.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and shari
 - 🌱 I’m currently learning more about cloud computing and Kubernetes.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 💬 Ask me about HTML, CSS, JavaScript, and any development-related topics.
-- 📫 How to reach me: [https://nbcodeblog.github.io] , [nbcodebloghelpteam@gmail.com]
+- 📫 How to reach me: [https://miraclewithnb.github.io] , [miraclewithnb@gmail.com]
 - ⚡ Fun fact: I love exploring new programming languages and frameworks.
 
 ## 🛠️ Technologies & Tools
@@ -25,26 +25,35 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and shari
 
 ## 📈 GitHub Stats
 
-![nbcodeblog's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbcodeblog&show_icons=true&theme=radical)
+![miraclewithnb's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraclewithnb&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
-- [Website](https://nbcodeblog.github.io)
-- [Youtube](https://www.youtube.com/@nbcodeblog)
-- [Github](https://github.com/nbcodeblog)
-- [Bitbucket](https://bitbucket.org/nbcodeblogwebsite/workspace/overview)
-- [Gitlab](https://gitlab.com/nbcodeblog)
-- [Stack Overflow](https://stackoverflow.com/users/29058866/nbcodeblog)
-- [Facebook](https://facebook.com/nbcodeblogs)
-- [Instagram](https://instagram.com/nbcodeblog)
-- [Threads](https://www.threads.com/@nbcodeblog)
-- [Twitter](https://twitter.com/nbcodeblog)
-- [LinkedIn](https://www.linkedin.com/in/nbcodeblog)
+- [Website](https://miraclewithnb.github.io)
+- [Youtube](https://www.youtube.com/@miraclewithnb)
+- [Github](https://github.com/miraclewithnb)
+- [Bitbucket](https://bitbucket.org/miraclewithnb/workspace/overview)
+- [Gitlab](https://gitlab.com/miraclewithnb)
+- [Stack Overflow](https://stackoverflow.com/users/29058866/miraclewithnb)
+- [Discord](https://discord.com/channels/@miraclewithnb)
+- [Discord Channel](https://discord.gg/2EUkxk7js)
+- [Mastodon](https://mastodon.social/@miraclewithnb)
+- [Facebook](https://facebook.com/miraclewithnb)
+- [Instagram](https://instagram.com/miraclewithnb)
+- [Threads](https://www.threads.com/@miraclewithnb)
+- [Twitter](https://twitter.com/miraclewithnb)
+- [LinkedIn](https://www.linkedin.com/in/miraclewithnb)
+- [Pinterest](https://in.pinterest.com/miraclewithnb)
+- [Tumblr](https://www.tumblr.com/miraclewithnb)
+- [Quora](https://www.quora.com/profile/Miraclewithnb)
+- [Microsoft Teams](https://teams.live.com/l/community/FEAh4vRbqJqpD73Ew)
 - [Spotify](https://open.spotify.com/user/31aaymwjg6bmazj53zofsam4ppjm)
 - [IMDb](https://www.imdb.com/user/ur181525749/?ref_=ext_shr_lnk)
 - [WhatsApp Channel](https://whatsapp.com/channel/0029Vb71btWAYlULL4rOYX2m)
 - [WhatsApp Community](https://chat.whatsapp.com/Eg1a28fxA6u66qAoOleER2)
-- [Telegram Channel](https://t.me/nbcodeblog)
-- [Arattai Channel](https://aratt.ai/@nbcodeblog)
+- [WhatsApp Community Query Related Group](https://chat.whatsapp.com/IcM6WJ1nLRaHfubYSIvIkx)
+- [WhatsApp Community Talking Group](https://chat.whatsapp.com/G3V3yl6x4NCB587Ke4b6SE)
+- [Telegram Channel](https://t.me/miraclewithnb)
+- [Arattai Channel](https://aratt.ai/@miraclewithnb)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
