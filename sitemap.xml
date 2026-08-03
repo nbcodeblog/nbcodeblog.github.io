@@ -1,103 +1,47 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://nbcodeblog.github.io/</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/HTML/contents.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/contents.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/about_us.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/contact_us.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/privacy_policy.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/dmca_policy.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/terms_of_use.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Layouts_Website/layout1.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Layouts_Website/layout2.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Layouts_Website/layout3.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Cards_Website/card1.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Cards_Website/card2.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Resume_Website/resume1.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Restaurants_Website/restaurant1.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Blog_Website/blog.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Ultraedit_Website_Clone/ultraedit.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Login%20Page%20by%20HTML%20and%20CSS/login_page.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Cards/card.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://nbcodeblog.github.io/Projects/Navbars/navbar.html</loc>
-<lastmod>2026-05-15T16:02:21+00:00</lastmod>
-<priority>0.64</priority>
-</url>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://miraclewithnb.github.io/</loc>
+        <lastmod>2026-08-03T19:03:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0000</priority>
+    </url>
+    <url>
+        <loc>https://miraclewithnb.github.io/html/contents.html</loc>
+        <lastmod>2026-08-03T19:03:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8000</priority>
+    </url>
+    <url>
+        <loc>https://miraclewithnb.github.io/about_us.html</loc>
+        <lastmod>2026-08-03T19:03:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8000</priority>
+    </url>
+    <url>
+        <loc>https://miraclewithnb.github.io/contact_us.html</loc>
+        <lastmod>2026-08-03T19:03:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8000</priority>
+    </url>
+    <url>
+        <loc>https://miraclewithnb.github.io/privacy_policy.html</loc>
+        <lastmod>2026-08-03T19:03:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8000</priority>
+    </url>
+    <url>
+        <loc>https://miraclewithnb.github.io/dmca_policy.html</loc>
+        <lastmod>2026-08-03T19:03:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8000</priority>
+    </url>
+    <url>
+        <loc>https://miraclewithnb.github.io/terms_of_use.html</loc>
+        <lastmod>2026-08-03T19:03:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8000</priority>
+    </url>
 </urlset>
