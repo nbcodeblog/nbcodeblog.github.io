@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and shari
 - [Website](https://miraclewithnb.github.io)
 - [Youtube](https://www.youtube.com/@miraclewithnb)
 - [Github](https://github.com/miraclewithnb)
-- [Bitbucket](https://bitbucket.org/miraclewithnb/workspace/overview)
+- [Bitbucket](https://bitbucket.org/miraclewithnb)
 - [Gitlab](https://gitlab.com/miraclewithnb)
 - [Stack Overflow](https://stackoverflow.com/users/29058866/miraclewithnb)
 - [Discord](https://discord.com/channels/@miraclewithnb)
