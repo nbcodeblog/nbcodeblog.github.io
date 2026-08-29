@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://miraclewithnb.github.io/sitemap.xml
+Sitemap: https://nbcodeblog.github.io/sitemap.xml
